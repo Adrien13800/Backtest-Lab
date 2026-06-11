@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: backtest-lab-api
+Version: 0.1.0
+Summary: FastAPI backend for Backtest Lab
+Requires-Python: >=3.12
+Requires-Dist: alembic>=1.17.0
+Requires-Dist: asyncpg>=0.31.0
+Requires-Dist: fastapi[standard]>=0.125.0
+Requires-Dist: pydantic-settings>=2.12.0
+Requires-Dist: python-multipart>=0.0.20
+Requires-Dist: sqlalchemy[asyncio]>=2.0.45
+Provides-Extra: dev
+Requires-Dist: pytest>=9.0.0; extra == "dev"
+Requires-Dist: pytest-asyncio>=1.3.0; extra == "dev"
+Requires-Dist: ruff>=0.14.0; extra == "dev"
