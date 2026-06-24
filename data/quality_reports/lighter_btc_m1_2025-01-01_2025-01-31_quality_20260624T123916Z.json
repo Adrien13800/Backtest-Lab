@@ -1,0 +1,23 @@
+{
+  "abnormal_range_count": 32,
+  "duplicate_timestamps": 0,
+  "end": "2025-01-30T23:59:00+00:00",
+  "file": "/Users/adrienarigo/Documents/Personnels/Backtest-Lab/data/raw/lighter/btc/m1/lighter_btc_m1_2025-01-01_2025-01-31.parquet",
+  "invalid_high": 0,
+  "invalid_low": 0,
+  "missing_timestamps": 0,
+  "negative_or_zero_close": 0,
+  "negative_or_zero_high": 0,
+  "negative_or_zero_low": 0,
+  "negative_or_zero_open": 0,
+  "negative_volume": 0,
+  "non_monotonic_timestamps": false,
+  "passed": true,
+  "rows": 19637,
+  "start": "2025-01-17T08:43:00+00:00",
+  "suspected_gaps_count": 0,
+  "top_time_deltas": {
+    "60s": 19636
+  },
+  "zero_volume_count": 794
+}
